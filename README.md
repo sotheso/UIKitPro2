@@ -1,0 +1,1 @@
+this is short project about revisited Interface Builder, Auto Layout, outlets and other things & @2x and @3x images, asset catalogs, UIButton, CALayer, UIColor, random numbers, actions, UIAlertController, and more
